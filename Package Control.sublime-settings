@@ -1,0 +1,22 @@
+{
+	"bootstrapped": true,
+	"installed_packages":
+	[
+		"Anaconda",
+		"BracketHighlighter",
+		"Conda",
+		"Ethereum",
+		"KWrite Color Scheme",
+		"Material Theme",
+		"Package Control",
+		"Predawn",
+		"Refresh File and Folders",
+		"SideBarEnhancements",
+		"SublimeAStyleFormatter",
+		"Tabnine",
+		"Terminus",
+	],
+	"in_process_packages":
+	[
+	],
+}
